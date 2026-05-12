@@ -1,6 +1,1 @@
-# hello-world
-This repository is for practicing the GitHub Flow
-
-hello my name is obai
-
-i did explore git and GitHub
+Lab 5 
